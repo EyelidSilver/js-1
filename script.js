@@ -1,0 +1,14 @@
+ console.log("Hello Winc Academy");
+let name = "Aitalina";
+console.log(name);
+console.log(5+5);
+console.log(234234-23243242);
+console.log(32428*342234234234);
+console.log(324234234234234/234234234234234234234234);
+console.log(234234%23423423423432);
+console.log(name);
+console.log(name);
+let age = "25";
+typeof(age);
+age=25;
+typeof(age);
